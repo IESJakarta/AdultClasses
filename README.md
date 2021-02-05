@@ -1,2 +1,0 @@
-# AdultClasses
-IES Adult Classes
