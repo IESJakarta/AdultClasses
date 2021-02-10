@@ -2,7 +2,7 @@
 
 body {
   font-family: "Barlow Condensed", sans-serif;
-  font-size: 24px;
+  font-size: calc(40px - 2vw);
   line-height: 96%;
 }
 
